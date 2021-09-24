@@ -1,3 +1,4 @@
+package modulo1;
 import java.util.Scanner;
 
 public class atividade2 {
@@ -26,6 +27,7 @@ public static void main(String[] args) {
                 System.out.println("O salário informado é invalido");
     }
     }while (salario <= 0);
+    sc.close();
 }
 }
 
