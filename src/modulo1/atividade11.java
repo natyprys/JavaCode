@@ -73,7 +73,7 @@ public class atividade11 {
             }while(continua != 'V' && continua != 'S');
         }
     
-    }while (opcao < 1 || opcao >3 || continua == 'V');
+    }while (opcao < 1 || opcao >5 || continua == 'V');
 }
 }
 
